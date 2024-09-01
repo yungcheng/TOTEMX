@@ -6,5 +6,5 @@ https://github.com/GEIGEIGEIST/TOTEM
 
 TOTEMX shares the same firmware as of the original TOTEM.
 ![image](./Pictures/20230702.AZHIZHINOV.TOTEMX.00.png)
-![image](./Pictures/20230702.AZHIZHINOV.TOTEMX.00.png)
-![image](./Pictures/20230702.AZHIZHINOV.TOTEMX.00.png)
+![image](./Pictures/20230702.AZHIZHINOV.TOTEMX.01.png)
+![image](./Pictures/20230702.AZHIZHINOV.TOTEMX.02.png)
