@@ -15,3 +15,6 @@ Case with integrated nails.
 
 Another case with the independent nails.
 ![image](./Pictures/20250211.AZHIZHINOV.TOTEMX.00.png)
+
+There are another versions for the case, designed spetially for wireless builds.
+https://github.com/felixJR123/TOTEMX-Wireless-Case
